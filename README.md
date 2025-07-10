@@ -50,9 +50,4 @@
 - **[Boxicons](https://boxicons.com/)** – Icons
 
 
----
 
-## 🛠️ How to Use / Run Locally
-
-# Clone the repository
-(https://github.com/maneesh004-code/gym-responsive-website)
