@@ -34,9 +34,8 @@
 
 ## 🚀 Live Demo
 
-🔗 [Live Website](https://maneesh004-code.github.io/gym-responsive-website)
+[Click here to view the live site](https://maneesh004-code.github.io/royal-fitness-website)
 
-> Make sure GitHub Pages is enabled under your repo settings → Pages → Source → `main` branch → root (`/`).
 
 ---
 
@@ -54,11 +53,6 @@
 
 ## 🛠️ How to Use / Run Locally
 
-```bash
 # Clone the repository
-git clone https://github.com/maneesh004-code/gym-responsive-website.git
-
-# Open the project folder
-cd gym-responsive-website
-
-# Open index.html in your browser
+[git clone  https://github.com/maneesh004-code/gym-responsive-website.git
+](https://github.com/maneesh004-code/royal-fitness-website.git)
