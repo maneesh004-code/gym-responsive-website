@@ -34,7 +34,7 @@
 
 [## 🚀 Live Demo
 
-[Click here to view the live site](https://maneesh004-code.github.io/Royal-Fitness/
+[Click here to view the live site](https://maneesh004-code.github.io/gym-responsive-website/
 )
 
 
@@ -55,4 +55,4 @@
 ## 🛠️ How to Use / Run Locally
 
 # Clone the repository
-(https://github.com/maneesh004-code/royal-fitness-website.git)
+(https://github.com/maneesh004-code/gym-responsive-website)
